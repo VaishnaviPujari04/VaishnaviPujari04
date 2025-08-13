@@ -1,16 +1,31 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**VaishnaviPujari04/VaishnaviPujari04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Vaishnavi Pujari - Full Stack Web Developer 👩‍💻  
 
-Here are some ideas to get you started:
+🚀 Turning ideas into reality • 🌱 Always learning new tech • 🤝 Open to collaborations • 🌐 GDG Member 2024  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 About Me  
+💻 Passionate about building scalable, performance-driven web applications.  
+🗄️ Skilled in frontend & backend technologies with database expertise.  
+🤝 Active in the tech community & always open to collaborations.  
+
+---
+
+### 🌟 Connect With Me  
+[🌐 Portfolio](https://my-portfolio-two-gules-93.vercel.app/) •  
+[💼 LinkedIn](https://www.linkedin.com/in/vaishnavi-pujari-35b792228) •  
+[📧 Email](mailto:vaishnavipujari2712@gmail.com) •  
+[👩‍💻 GitHub](https://github.com/VaishnaviPujari04)  
+
+---
+
+### 🛠️ Skills  
+🖌️ **HTML** • 🎨 **CSS** • ⚡ **JavaScript** • ⚛️ **React.js** • ⏭️ **Next.js** • 🗄️ **MongoDB** • 🔥 **Firebase** • 🎀 **Bootstrap** • 📱 **Flutter** • 🛠️ **Git** • 🎯 **Tailwind CSS**
+
+---
+
+⭐ _"Code. Build. Innovate."_ ⭐  
+
+</div>
