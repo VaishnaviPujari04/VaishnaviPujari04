@@ -8,17 +8,6 @@
 
 ---
 
-### 🚀 About Me  
-💻 Passionate about building scalable, performance-driven web applications. 🗄️ Skilled in frontend & backend technologies with database expertise.  🤝 Active in the tech community & always open to collaborations.  
-
-
----
-
-### 🛠️ Skills  
-🖌️ **HTML** • 🎨 **CSS** • ⚡ **JavaScript** • ⚛️ **React.js** • ⏭️ **Next.js** • 🗄️ **MongoDB** • 🔥 **Firebase** • 🎀 **Bootstrap** • 📱 **Flutter** • 🛠️ **Git** • 🎯 **Tailwind CSS**
-
----
-
 ⭐ _"Code. Build. Innovate."_ ⭐  
 
 </div>
