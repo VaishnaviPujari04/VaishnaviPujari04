@@ -14,10 +14,7 @@
 ---
 
 ### 🌟 Connect With Me  
-[🌐 Portfolio](https://my-portfolio-two-gules-93.vercel.app/) •  
-[💼 LinkedIn](https://www.linkedin.com/in/vaishnavi-pujari-35b792228) •  
-[📧 Email](mailto:vaishnavipujari2712@gmail.com) •  
-[👩‍💻 GitHub](https://github.com/VaishnaviPujari04)  
+[🌐 Portfolio](https://my-portfolio-two-gules-93.vercel.app/) •  [💼 LinkedIn](https://www.linkedin.com/in/vaishnavi-pujari-35b792228) •  [📧 Email](mailto:vaishnavipujari2712@gmail.com) •  [👩‍💻 GitHub](https://github.com/VaishnaviPujari04)  
 
 ---
 
