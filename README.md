@@ -1,6 +1,6 @@
 <div align="center">
 
-# Vaishnavi Pujari - Full Stack Web Developer 👩‍💻  
+# Vaishnavi Pujari - Full Stack Developer 👩‍💻  
 
 🚀 Turning ideas into reality • 🌱 Always learning new tech • 🤝 Open to collaborations • 🌐 GDG Member 2024  
 
